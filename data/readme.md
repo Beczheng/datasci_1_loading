@@ -1,1 +1,3 @@
-# This is a folder of the acquired datasets
+# Data folder
+
+This is a folder of the acquired datasets
